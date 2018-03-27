@@ -25,6 +25,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "babel-plugin-dotenv": "^0.1.1",
     "babel-preset-stage-1": "^6.1.18",
     "dotenv": "^5.0.1",
